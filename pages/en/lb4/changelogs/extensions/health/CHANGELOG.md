@@ -13,6 +13,14 @@ permalink: /doc/en/lb4/changelog.health.html
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.14.6](https://github.com/loopbackio/loopback-next/compare/@loopback/health@0.14.5...@loopback/health@0.14.6) (2024-09-12)
+
+**Note:** Version bump only for package @loopback/health
+
+
+
+
+
 ## [0.14.5](https://github.com/loopbackio/loopback-next/compare/@loopback/health@0.14.4...@loopback/health@0.14.5) (2024-08-14)
 
 **Note:** Version bump only for package @loopback/health

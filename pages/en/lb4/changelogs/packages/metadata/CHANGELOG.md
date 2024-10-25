@@ -13,6 +13,14 @@ permalink: /doc/en/lb4/changelog.metadata.html
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.0.6](https://github.com/loopbackio/loopback-next/compare/@loopback/metadata@7.0.5...@loopback/metadata@7.0.6) (2024-09-12)
+
+**Note:** Version bump only for package @loopback/metadata
+
+
+
+
+
 ## [7.0.5](https://github.com/loopbackio/loopback-next/compare/@loopback/metadata@7.0.4...@loopback/metadata@7.0.5) (2024-08-14)
 
 **Note:** Version bump only for package @loopback/metadata
