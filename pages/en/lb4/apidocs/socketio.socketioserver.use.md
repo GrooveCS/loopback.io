@@ -18,7 +18,7 @@ Register a sock.io middleware function
 **Signature:**
 
 ```typescript
-use(fn: SockIOMiddleware): Server<import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, any>;
+use(fn: SockIOMiddleware): Server<import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, any>;
 ```
 
 ## Parameters
@@ -29,6 +29,6 @@ use(fn: SockIOMiddleware): Server<import("socket.io/dist/typed-events").DefaultE
 
 **Returns:**
 
-Server&lt;import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, any&gt;
+Server&lt;import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, any&gt;
 
 

@@ -16,6 +16,6 @@ permalink: /doc/en/lb4/apidocs.socketio.socketiobindings.socket.html
 **Signature:**
 
 ```typescript
-SOCKET: BindingKey<Socket<import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, import("socket.io/dist/typed-events").DefaultEventsMap, any>>
+SOCKET: BindingKey<Socket<import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, import("socket.io").DefaultEventsMap, any>>
 ```
 
